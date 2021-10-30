@@ -24,10 +24,12 @@ Run the app in the following order:
 
 *********************************
 
-
 Configure endpoints
 
 navigate to yml config files "https://github.com/moaiad717/available-hotels-service/blob/master/src/main/resources/application_urls.properties" and configure your endpoints /
 Services names.
 
 Code is self documented, instruction comments added inside classes.
+
+Rsults from PostMan : 
+![image](https://user-images.githubusercontent.com/37189526/139557881-a995fbaa-36b6-4fa7-a659-24d5a0a9debb.png)

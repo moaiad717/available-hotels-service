@@ -30,6 +30,7 @@ navigate to yml config files "https://github.com/moaiad717/available-hotels-serv
 Services names.
 
 Code is self documented, instruction comments added inside classes.
+*********************************
 
-Rsults from PostMan : 
+# Rsults from PostMan : 
 ![image](https://user-images.githubusercontent.com/37189526/139557881-a995fbaa-36b6-4fa7-a659-24d5a0a9debb.png)

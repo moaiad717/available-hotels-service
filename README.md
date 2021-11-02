@@ -26,7 +26,7 @@ Run the app in the following order:
 
 Configure endpoints
 
-navigate to the config files "https://github.com/moaiad717/available-hotels-service/blob/master/src/main/resources/application_urls.properties" and configure your endpoints /
+navigate to the config files "https://github.com/moaiad 717/available-hotels-service/blob/master/src/main/resources/application_urls.properties" and configure your endpoints /
 Services names.
 
 Code is self documented, instruction comments added inside classes.
